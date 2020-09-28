@@ -1,7 +1,7 @@
 # anyway
 공부하면서 정리한 사소한 기록들
 
-# 
+# Linux
 ```bash
 # docker 설치
 apt-get update
